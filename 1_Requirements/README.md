@@ -1,4 +1,4 @@
-Functions of “gotoxy”, “GotoXY” and “delay” are some of the most important functions used in this. Along with that many functions have been used as listed below.
+Functions of “gotoxy”, “GotoXY” and “delay” are some of the most important functions used in this project. Along with that many functions have been used as listed below.
 void record()
 void load()
 void Delay(long double)

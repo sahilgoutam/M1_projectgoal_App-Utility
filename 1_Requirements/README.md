@@ -1,1 +1,15 @@
-
+Functions of “gotoxy”, “GotoXY” and “delay” are some of the most important functions used in this. Along with that many functions have been used as listed below.
+void record()
+void load()
+void Delay(long double)
+void Move()
+void Food()
+void Print()
+void Bend()
+int Score()
+void Boarder()
+void Down()
+void Left()
+void Up()
+void Right()
+void ExitGame()

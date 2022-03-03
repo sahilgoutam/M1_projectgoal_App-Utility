@@ -6,6 +6,3 @@
 ---
 ![Screenshot (115)](https://user-images.githubusercontent.com/89703188/132464510-1e2fe0e7-10e4-4d3e-a2c6-e9b34b8097b1.png)
 
-## Block Diagram
----
-https://user-images.githubusercontent.com/83995244/143038628-978e5b0a-ecfa-4d68-9bb2-80359c698a30.png

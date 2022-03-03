@@ -63,6 +63,7 @@ Different variations of exist like, if the die roll is too large when a player i
   | HR04 | If the game is working properly, selecting number of players  | Future |
   | HR05 | When a player wins, The game should print a message and exit the program | Implemented |
   | HR06 | The game should correctly calculate and update the position values based on the roll | Implemented |
+  | HR07 | The user needs location of viper & ladders | Implemented |1
   ## Low level requirements
   |  ID|Description|Status|
   |---|---|---|

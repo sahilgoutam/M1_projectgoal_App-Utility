@@ -8,4 +8,4 @@
 
 ## Block Diagram
 ---
-https://user-images.githubusercontent.com/83995244/143038628-978e5b0a-ecfa-4d68-9bb2-80359c698a30.png
+![143038628-978e5b0a-ecfa-4d68-9bb2-80359c698a30 (1)](https://user-images.githubusercontent.com/98883917/156507671-8b2f985c-98f7-4be0-8990-80bb317550b7.png)
